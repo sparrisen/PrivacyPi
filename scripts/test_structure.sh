@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "PrivacyPi structure looks good!"
+echo 'PrivacyPi structure looks good!'
